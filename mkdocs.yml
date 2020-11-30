@@ -1,0 +1,13 @@
+site_name: "TelcoCloud HEIA-FR"
+site_description: "Home page of the HEIA-FR TelcoCloud project"
+site_url: null
+nav:
+  - Home: index.md
+  - "Communiqué de presse": communique.md
+theme: 
+  name: material
+  palette:
+    primary: red
+    accent: teal
+
+     
